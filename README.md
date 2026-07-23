@@ -44,7 +44,6 @@ The output is also designed to travel: it is a single offline-readable file with
 ```text
 skills/journey-html/
 ├── SKILL.md
-├── agents/openai.yaml
 ├── assets/journey-template.html
 ├── references/
 ├── scripts/
