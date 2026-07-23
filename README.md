@@ -1,7 +1,5 @@
 # Journey HTML
 
-[![skills.sh](https://skills.sh/b/andrewdex/journey-html)](https://skills.sh/andrewdex/journey-html)
-
 Turn a bug, feature request, incident, or technical investigation into one polished HTML document that explains the journey, the evidence, the change, and how to verify it.
 
 `journey-html` is an Agent Skill for creating shareable, self-contained technical journey pages for engineers, PMs, designers, support, and QA.
