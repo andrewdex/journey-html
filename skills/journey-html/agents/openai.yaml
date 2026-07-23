@@ -1,0 +1,4 @@
+interface:
+  display_name: "Journey HTML"
+  short_description: "Create evidence-backed HTML journey documents"
+  default_prompt: "Use $journey-html to turn this bug, feature, or investigation into a polished, self-contained HTML journey document."

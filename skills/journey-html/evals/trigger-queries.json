@@ -1,0 +1,34 @@
+[
+  {
+    "query": "Make a journey HTML for this broken signup flow so product and QA can see expected vs actual behavior.",
+    "should_trigger": true
+  },
+  {
+    "query": "Turn this feature request into a visual current-state and future-state handoff with evidence and test steps.",
+    "should_trigger": true
+  },
+  {
+    "query": "I investigated a flaky webhook and need one shareable HTML page with the timeline, findings, unknowns, and next checks.",
+    "should_trigger": true
+  },
+  {
+    "query": "Can you make a polished page from ACME-42 showing the user journey and UI states?",
+    "should_trigger": true
+  },
+  {
+    "query": "Fix the checkout bug in the code and run the tests.",
+    "should_trigger": false
+  },
+  {
+    "query": "Summarize this ticket in three plain-text bullets.",
+    "should_trigger": false
+  },
+  {
+    "query": "Build and deploy a production marketing website.",
+    "should_trigger": false
+  },
+  {
+    "query": "Draw only a Mermaid sequence diagram for this API call.",
+    "should_trigger": false
+  }
+]
